@@ -6,16 +6,13 @@
 </div>
 
 ## **Demo**
-See Live Demo Here - https://bookbugs.netlify.app
 
-![image](https://github.com/Krushna-Kulkarni/BookBugs/assets/62604823/bb4dc3f0-7c46-4342-90de-fe5073c07d38)
+
 
 
 ## **How to install and run locally?**
 
 ```
-$ git clone https://github.com/Krushna-Kulkarni/BookBugs
-$ cd BookBugs
 $ npm install
 $ npm start
 ```
